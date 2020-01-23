@@ -17,7 +17,7 @@
 	<p><strong>Goal:</strong></p>
 	<ul>
 		<li>Build an attractive portfolio to showcase my work.</li>
-		<li>To acquire full or part-time employment or an internship..</li>
+		<li>To acquire full or part-time employment or an internship.</li>
 		<li>To attract freelance clients.</li>
 	</ul>
 
@@ -31,7 +31,7 @@
 		<li><strong>Ethnicity:</strong> White</li>
 		<li><strong>Occupation:</strong> Boxing Gym Coach/Owner</li>
 		<li><strong>Technology:</strong> <em>Phone</em>; Iphone 7 / Gym Land Line. <em>Desktop PC</em> <em>OS</em>: Windows 8.1</li>
-		<li><strong>Attitude:</strong> Wants to promote classes and schedule, likes upload pictures, and have an easy access to social media.</li>
+		<li><strong>Attitude:</strong> Wants to promote classes and schedule, likes to upload pictures, and have an easy access to social media.</li>
 		<li><strong>Needs/Goals/Features:</strong></li>
 		<ul>
 			<li>Needs to promote the gym and attract new Members.</li>
@@ -46,6 +46,10 @@
 			<li>Hard to navigate website.</li>
 			<li>No Mobile support.</li>
 			<li>Unable to sign users up and easily send out promotions and announcements.</li>
+		</ul>
+		<li><strong>User Story:</strong></li>
+		<ul>
+			<li>As an inexperienced/standard user, Max Wants an aesthetically pleasing website that is easy to navigate and link to social media.</li>
 		</ul>
 	</ul>
 </body>
