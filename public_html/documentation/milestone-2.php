@@ -1,3 +1,5 @@
+<?php
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -8,8 +10,8 @@
 <body>
 <h1><strong>Content Strategy</strong></h1>
 <div>
+	<strong>My site will be one page, and will consist of the following sections:</strong>
 	<ul>
-		<strong>My site will be one page, and will consist of the following sections:</strong>
 		<li><strong>Welcome:</strong> A brief one-line introduction that clearly states my name and role as a Front End Developer. Background image will be a stock photo of a laptop and coffee. Dark colors / theme.
 
 		<li><strong>About Me:</strong> This section will detail my professional history, core skill set, and professional highlights. This section will showcase my strengths and personality. Will stress my desire to attract employers as well as individual contract work.
