@@ -9,3 +9,13 @@ Porfolio
 * Overall very good work, I appreciate the initiative of going above and beyond with adding some CSS.
 
 **Grade Tier III**
+
+## Milestone 2 Feedback
+* Really clean and simple product
+* Your content strategy is clear and concise
+* Watch for the horizontal scroll bar--make sure that isn't on your actual site!
+* Your wireframes are very well thought out and should have no problem being compatable with bootstrap, in both desktop and mobile view.
+* Overall, great work! I can tell you put some thought and effort into this milestone.
+* Turned in early!
+
+**Grade Tier IV**
